@@ -1,4 +1,4 @@
-##Instagram Fake Account Detection
+#Instagram Fake Account Detection
 ## Overview
 Instagram fake account detection involves identifying profiles that are fake or malicious through several techniques. These include analyzing profiles for incomplete or suspicious details, monitoring behavior patterns for unusual activities like mass following or spam comments, and employing machine learning algorithms to detect anomalies. Additionally, the platform encourages users to report suspected fake accounts, which helps in further investigation and removal of these accounts.
 
